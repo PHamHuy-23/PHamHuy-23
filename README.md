@@ -1,16 +1,22 @@
-## Hi there 👋
+# Huy Pham 👨‍💻
+Software Engineering Student | AI & System Focus
 
-<!--
-**PHamHuy-23/PHamHuy-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I focus on building AI systems and scalable backend solutions.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: C++, Python
+- AI: YOLO, CLIP, TensorFlow
+- System: Linux, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🔍 AI Image Search System
+- 🎮 Online Game Backend
+- 🔐 Security Mini Tools
+
+## Goals
+- Build real-world AI systems
+- Work in AI/Backend Engineering
+
+## Contact
+- Email: ...
